@@ -1,0 +1,3 @@
+a = int(input('Enter base no.:'))
+b = int(input('Enter exponent no.'))
+print(pow(a,b))
